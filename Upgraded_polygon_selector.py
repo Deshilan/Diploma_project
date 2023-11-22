@@ -1,12 +1,7 @@
 import csv
-import pandas as pd
-import numpy as np
 import cv2
 import matplotlib.pyplot as plt
 import matplotlib.widgets as matwid
-import os
-import copy
-import matplotlib.backend_bases as backends
 
 points = [0,0,0,0,0,0,0,0]
 def Select(verts):

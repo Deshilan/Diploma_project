@@ -1,9 +1,8 @@
 import cv2.dnn
 import numpy as np
 import pandas as pd
-from PIL import Image
 import os
-import matplotlib.pyplot as plt
+
 
 def save_picture1():
     directory = r'C:\python\pythonProject\Extra_pictures_to_dataset'
